@@ -11,7 +11,12 @@ The project aims to develop a Python program to find missing numbers in a given 
 - &nbsp; Successfully identified and listed missing numbers in the given input list.
   
 - &nbsp; Achieved a scalable solution for various input lists.
-  
+
+<h2>Theory:</h2>
+
+numbers = set(n)
+
+In this line of code, a set called numbers is created from the input list n. This effectively removes any duplicate values from the list n and stores the unique elements in the set. This set is then used to check for missing numbers by iterating through a range of numbers from 1 to n[-1] and checking if each number is in the set. If a number is not in the set, it is considered a missing number.
 
 <h2>Technologies Used:</h2>
 Python
