@@ -9,6 +9,8 @@ This project involves performing basic statistical analysis on a given numeric d
 
 •	&nbsp; Median Calculation: The project effectively calculates the median of the dataset. It handles both even and odd-length lists correctly, ensuring accurate results.
 
+![1](https://github.com/Anuradha-Pise/Python-Projects/assets/70841033/2417014d-4d59-4d5d-8f86-404c98a65b31)
+
 
 •	&nbsp; Mode Calculation: The project correctly computes the mode of the dataset by creating a frequency dictionary and identifying the element with the highest frequency.
 
