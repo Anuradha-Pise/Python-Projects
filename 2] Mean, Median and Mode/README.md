@@ -22,5 +22,12 @@ The main challenge in this project was implementing the median calculation corre
 
 <h2>Screenshot:</h2>
 
+1] From Existing List:
+
 ![Screenshot (47)](https://github.com/Anuradha-Pise/Python-Projects/assets/70841033/1e0b44ee-ae93-4c0e-afc4-0041994c74b1)
+
+2] Taking User Input
+
+![Screenshot (48)](https://github.com/Anuradha-Pise/Python-Projects/assets/70841033/92cb18a9-7b64-4c32-9c3d-0a2e1473d129)
+
 
