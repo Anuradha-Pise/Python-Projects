@@ -19,4 +19,6 @@ Python
 The main challenge in this project was implementing the median calculation correctly, accounting for both even and odd-length lists. Additionally, creating a frequency dictionary and finding the mode required careful handling of the data to ensure accurate results.
 
 <h2>Screenshot:</h2>
-![Screenshot (47)](https://github.com/Anuradha-Pise/Python-Projects/assets/70841033/4d11a202-d832-49ea-91ca-323bd19ba6ff)
+
+![Screenshot (47)](https://github.com/Anuradha-Pise/Python-Projects/assets/70841033/1e0b44ee-ae93-4c0e-afc4-0041994c74b1)
+
